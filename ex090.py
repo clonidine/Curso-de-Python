@@ -1,4 +1,4 @@
-Exercício Python #090 - Dicionário em Python
+# Exercício Python #090 - Dicionário em Python
 
 
 aluno = {"nome": str(input('Nome: '))}
