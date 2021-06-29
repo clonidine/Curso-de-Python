@@ -1,3 +1,6 @@
+Exercício Python #090 - Dicionário em Python
+
+
 aluno = {"nome": str(input('Nome: '))}
 aluno['média'] = float(input(f'Média de {aluno["nome"]}: '))
 if aluno['média'] >= 7:
